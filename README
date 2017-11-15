@@ -1,0 +1,11 @@
+TDD Assignment
+Signup Authorization 
+1. Written test cases for validation of email and password
+2. Written test cases for database storing
+3. Written test cases for signup function
+
+
+In this assignment
+- Signup will call store function will email and password as parameters
+- Store function will call two functions validate_email and validate_password to validate email and password respectively
+
